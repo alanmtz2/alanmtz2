@@ -4,7 +4,7 @@
 Welcome to my GitHub repository! This repository serves as a portfolio showcasing my skills and projects related to data engineering, full-stack development, and specific technologies like AWS, GCP, FastAPI, and Vue.js.
 
 ## About Me
-I am a passionate data engineer and full-stack developer based in Mexico. With a strong background in both fields, I constantly strive to expand my knowledge and expertise in cutting-edge technologies. My interests lie in leveraging data to drive insights and solutions, as well as crafting seamless and user-friendly web applications.
+I am a passionate data engineer and full-stack developer based in Mexico. I constantly strive to expand my knowledge and expertise in cutting-edge technologies. My interests lie in leveraging data to drive insights and solutions, as well as crafting seamless and user-friendly web applications.
 
 ## Skills
 - **Data Engineering:** Proficient in designing and implementing robust data pipelines, data warehousing, ETL processes, and data modeling techniques.
